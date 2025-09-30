@@ -72,7 +72,7 @@ if __name__ == "__main__":
     # 1. Gather user input for principal, interest rate, and amortization term 
     principal_amount = float(input("Enter principal amount:"))
     quoted_interest_rate = float(input("Enter quoted interest rate (as a decimal ie: 5.5 for 5.5%):"))
-    amortization_years = int(input("Enter ammortization term (in years):"))
+    amortization_years = int(input("Enter amortization term (in years):"))
 
     # 2. Create an instance of MortgagePayment and compute payments
     mortgage_scenario = MortgagePayment(quoted_interest_rate=quoted_interest_rate, amortization_years=amortization_years)
