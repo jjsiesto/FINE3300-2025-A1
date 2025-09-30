@@ -24,12 +24,12 @@ The script will prompt you to enter the principal amount, the quoted annual inte
 
 Example Output: ($500,000 principal at 5.5% interest for 25 years)
 
-Monthly Payment: 3051.96 <br>
-Semi-Monthly Payment: 1524.25 <br>
-Bi-Weekly Payment: 1406.88 <br>
-Accelerated Bi-Weekly Payment: 1525.98 <br>
-Weekly Payment: 703.07 <br>
-Accelerated Weekly Payment: 762.99 <br>
+Monthly Payment:  $3051.96 <br>
+Semi-monthly Payment:  $1524.25 <br>
+Bi-weekly Payment:  $1406.88 <br>
+Weekly Payment:  $703.07 <br>
+Rapid Bi-Weekly Payment:  $1525.98 <br>
+Rapid Weekly Payment:  $762.99 <br>
 
 __Currency Converter__
 

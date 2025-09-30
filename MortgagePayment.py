@@ -80,9 +80,9 @@ if __name__ == "__main__":
 
 
     # 3. Display the formatted results to the user, accurate to two decimal places
-    print(f"Monthly Payment: {payment_values[0]:.2f}")
-    print(f"Semi-Monthly Payment: {payment_values[1]:.2f}")
-    print(f"Bi-Weekly Payment: {payment_values[2]:.2f}")
-    print(f"Accelerated Bi-Weekly Payment: {payment_values[3]:.2f}")
-    print(f"Weekly Payment: {payment_values[4]:.2f}")
-    print(f"Accelerated Weekly Payment: {payment_values[5]:.2f}")
+    print(f"Monthly Payment:  ${payment_values[0]:.2f}")
+    print(f"Semi-monthly Payment:  ${payment_values[1]:.2f}")
+    print(f"Bi-weekly Payment:  ${payment_values[2]:.2f}")
+    print(f"Weekly Payment:  ${payment_values[4]:.2f}")
+    print(f"Rapid Bi-Weekly Payment:  ${payment_values[3]:.2f}")
+    print(f"Rapid Weekly Payment:  ${payment_values[5]:.2f}")
