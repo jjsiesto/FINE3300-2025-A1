@@ -75,8 +75,8 @@ if __name__ == "__main__":
     amortization_years = int(input("Enter ammortization term (in years):"))
 
     # 2. Create an instance of MortgagePayment and compute payments
-    mortgage_secario = MortgagePayment(quoted_interest_rate=quoted_interest_rate, amortization_years=amortization_years)
-    payment_values = mortgage_secario.payments(principal=principal_amount)
+    mortgage_scenario = MortgagePayment(quoted_interest_rate=quoted_interest_rate, amortization_years=amortization_years)
+    payment_values = mortgage_scenario.payments(principal=principal_amount)
 
 
     # 3. Display the formatted results to the user, accurate to two decimal places
