@@ -110,7 +110,7 @@ def run_exchange_rate_conversion():
 
         # Perform the conversion and display the result
         result = converter.convert(amount, from_currency, to_currency) 
-        print(f"\n {amount} {from_currency} is approximatly {result:.2f} {to_currency}")
+        print(f"\n {amount} {from_currency} is approximately {result:.2f} {to_currency}")
     except (FileNotFoundError, ValueError) as e:
         print(f"Error: Could not perform conversion. {e}", file=sys.stderr)
 
