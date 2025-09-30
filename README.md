@@ -41,7 +41,7 @@ The script will prompt you for the path to the CSV file, the amount to convert, 
 
 Example Output: ($100,000 CAD to USD and vice versa)
 
-100000.00 CAD is approximatly 73003.36 USD <br>
-100000.00 USD is approximatly 136980.00 CAD
+100000.00 CAD is approximately 73003.36 USD <br>
+100000.00 USD is approximately 136980.00 CAD
 
 Note: The converter only accpets USD and CAD values and will reject other currency types. 
